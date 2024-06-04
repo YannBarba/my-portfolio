@@ -46,7 +46,7 @@ export default class header extends Component {
               </li>
               <li>
                 <div className="progress percent55">{/*<span>50%</span>*/}</div>
-                <strong>Next JS</strong>
+                <strong>NestJS</strong>
               </li>
               <li>
                 <div className="progress percent80">{/*<span>80%</span>*/}</div>
